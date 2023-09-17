@@ -5,7 +5,7 @@
 
 ## Table of Contents
 - [About](#about)
-- [Team members](#teammembers)
+- [Team members](#team)
 
 ## About
 Brain tumour identification is a really challenging task in the early stages of life. These days the issue of brain tumour automatic identification is of great interest. A tumour is the unusual growth of the tissues. A brain tumour is a number of unnecessary cells growing in the brain or central spinal canal.  It is the unrestrained progress of cancer cells in any portion of the body. 
